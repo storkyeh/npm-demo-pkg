@@ -1,0 +1,23 @@
+{
+  "name": "npm-demo-pkg",
+  "version": "1.0.0",
+  "description": "npm demo pkg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/storkyeh/npm-demo-pkg.git"
+  },
+  "keywords": [
+    "npm",
+    "pkg"
+  ],
+  "author": "hanyeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/storkyeh/npm-demo-pkg/issues"
+  },
+  "homepage": "https://github.com/storkyeh/npm-demo-pkg#readme"
+}
